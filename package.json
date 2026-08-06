@@ -1,0 +1,13 @@
+{
+  "name": "cnc-studio-pro",
+  "version": "1.0.0",
+  "description": "Simulador CNC educativo en un único archivo HTML — Heidenhain Klartext y Fagor ISO, fresadora y torno",
+  "private": true,
+  "scripts": {
+    "test": "node tests/run-all.js"
+  },
+  "devDependencies": {
+    "jsdom": "^24.0.0"
+  },
+  "license": "MIT"
+}
